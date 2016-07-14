@@ -2,6 +2,9 @@ package com.ttwishing.di.library.util;
 
 /**
  * Created by kurt on 8/11/15.
+ *
+ * 浪费内存,优化读取速度
+ * 因为我们要存储的数据是非常有限的
  */
 public class ClassToIntMap {
 
